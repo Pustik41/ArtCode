@@ -4,7 +4,7 @@ public class ArithmeticMean {
     
     public static void main(String[] args){
         
-        int[] array = new int[9];
+        int[] array = new int[10];
         int sum = 0;
         int aMean = 0;
         
